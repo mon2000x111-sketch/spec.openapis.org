@@ -1,4 +1,4 @@
-# OpenAPI Initiative Registry
+ # OpenAPI Initiative Registry
 
 This site contains the OpenAPI Initiative Registry and content for the HTML versions of specifications managed by the OpenAPI Initiative such as the Arazzo Specification the OpenAPI Specification, and the Overlay Specification.
 
